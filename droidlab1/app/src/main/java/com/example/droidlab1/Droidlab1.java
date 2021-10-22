@@ -12,7 +12,7 @@ public class Droidlab1 {
      public Droidlab1 () {
 
 
-        this.age = age;
+        this.age = age;;
         this.name = name;
         this.regNo = regNo;
         this.phone_number = phone_number;
